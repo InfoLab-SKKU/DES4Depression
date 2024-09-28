@@ -7,7 +7,7 @@ For more details, please check (link here)
 
 ## The Architecture of the Proposed Framework
 
-<img src="https://github.com/InfoLab-SKKU/DES4Depression/blob/main/Proposed%20Architecture.jpg" alt="Architecture" width="600"/>
+<img src="https://github.com/InfoLab-SKKU/DES4Depression/blob/main/Proposed%20Architecture.jpg" alt="Architecture" width="500"/>
 
 ---
 
