@@ -30,7 +30,7 @@ For more details, please check (link here)
     write.csv(my_data_frame, file = "data.csv", row.names = FALSE)
     ```
 
-3. Data can be processed in **dataPreprocessing.py** in the code folder. Run the code sequentially. At the end, two outputs will be generated:
+3. Data can be processed in `dataPreprocessing.ipynb` in the code folder. Run the code sequentially. At the end, two outputs will be generated:
    - **3labelv4Classification.csv** for Detection and Severity Prediction tasks.
    - **3labelv4Regression.csv** for Scale Prediction task.
 
@@ -38,7 +38,7 @@ For more details, please check (link here)
 
 - **Metrics Results**:
 
-  The `detectionLayer.ipynb` and `severityPredictionLayer.ipynb` files follow similar experimental methods. The code needs to be run sequentially from **Start** up to **Training (classic/static)**. At this point, you may choose to:
+  The `detectionLayer.ipynb` and `severityPredictionLayer.ipynb` files in the code folder follow similar experimental methods. The code needs to be run sequentially from **Start** up to **Training (classic/static)**. At this point, you may choose to:
 
   1. **Train with classical/static classifiers**.
 
@@ -59,7 +59,7 @@ For more details, please check (link here)
 
 - **Metrics Results**:
 
-  - The `regressionLayer.ipynb` file can be used for the Scale Prediction task.
+  - The `regressionLayer.ipynb` file in the code folder can be used for the Scale Prediction task.
   - Run the code sequentially from **Start** up to before **Regression Training**.
   - Then, run **Regression Training** to get the metrics.
 
