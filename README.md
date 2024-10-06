@@ -30,7 +30,7 @@ For more details, please check (link here)
     write.csv(my_data_frame, file = "data.csv", row.names = FALSE)
     ```
 
-3. Data can be processed in **dataPreprocessing.py**. Run the code sequentially. At the end, two outputs will be generated:
+3. Data can be processed in **dataPreprocessing.py** in the code folder. Run the code sequentially. At the end, two outputs will be generated:
    - **3labelv4Classification.csv** for Detection and Severity Prediction tasks.
    - **3labelv4Regression.csv** for Scale Prediction task.
 
