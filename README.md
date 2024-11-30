@@ -74,3 +74,16 @@ For more details, please check (link here)
 ## Citation
 
 We would appreciate it if you consider citing our work when using our code.
+
+```bibtex
+@article{imans2024explainable,
+  title={Explainable Multi-Layer Dynamic Ensemble Framework Optimized for Depression Detection and Severity Assessment},
+  author={Imans, Dillan and Abuhmed, Tamer and Alharbi, Meshal and El-Sappagh, Shaker},
+  journal={Diagnostics},
+  volume={14},
+  number={21},
+  pages={2385},
+  year={2024},
+  publisher={MDPI}
+}
+```
