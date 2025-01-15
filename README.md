@@ -83,7 +83,6 @@ We would appreciate it if you consider citing our work when using our code.
   volume={14},
   number={21},
   pages={2385},
-  year={2024},
-  publisher={MDPI}
+  year={2024}
 }
 ```
